@@ -1,4 +1,4 @@
-# Groovy Labs Builds (for Oculus Quest)
+# Groovy Labs Builds (for Meta Quest)
 
 Go to [Releases](https://github.com/marek-stoj/Groovy-Labs-Builds/releases) to download the game directly (APK).
 
